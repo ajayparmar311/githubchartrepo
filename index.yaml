@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demochert:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-27T04:23:25.757490873Z"
+    description: A Helm chart for Kubernetes
+    digest: b3149545c0122f642e730e7ad5dae924048ed6ca7fcffbdf300918f5d6ec1411
+    name: demochert
+    type: application
+    urls:
+    - demochert-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-27T04:23:25.756778759Z"
